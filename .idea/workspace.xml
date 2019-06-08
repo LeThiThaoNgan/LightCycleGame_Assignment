@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b72c5581-ba4a-49f1-bf53-5e595a48dd2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LightCycle.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightCycleGame_Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/images/LightCycleGame_Assignment.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b72c5581-ba4a-49f1-bf53-5e595a48dd2e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559989594536</updated>
-      <workItem from="1559989597810" duration="1206000" />
+      <workItem from="1559989597810" duration="1397000" />
     </task>
     <task id="LOCAL-00001" summary="add Grid for the bike">
       <created>1559990066566</created>
@@ -267,11 +263,32 @@
       <option name="project" value="LOCAL" />
       <updated>1559990618237</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changes">
+      <created>1559990850109</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559990850109</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changes">
+      <created>1559990854150</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1559990854150</updated>
+    </task>
+    <task id="LOCAL-00010" summary="changes">
+      <created>1559990879594</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1559990879594</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1206000" />
+    <option name="totallyTimeSpent" value="1397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="967" height="1200" extended-state="6" />
@@ -288,10 +305,10 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32920355" />
+      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50054055" side_tool="true" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945945" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
