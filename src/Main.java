@@ -4,11 +4,9 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
-import javax.swing.ImageIcon;
 
 
-
-public class Main  {
+public class Main {
 
 
 
@@ -28,6 +26,8 @@ public class Main  {
         String p2 = JOptionPane.showInputDialog("Enter 2nd player name: ");
 
         Color c2 = JColorChooser.showDialog(null, "Choose a color for your Light Cycle", Color.RED);
+
+
 
 
         //Create frame of game, game title
@@ -96,7 +96,7 @@ public class Main  {
 
                     //display winner
                     int selectedOption = JOptionPane.showConfirmDialog(frame, p2 + " won!" +
-                            "\n Do you want to play again?");
+                           "\n Do you want to play again?");
 
                     //restart
                     if (selectedOption == JOptionPane.YES_OPTION) {
@@ -205,5 +205,3 @@ public class Main  {
         frame.setResizable(false);
     }
 }
-
-
